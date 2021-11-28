@@ -5,7 +5,7 @@ package chapter6.part2;
  */
 public class MyBitmap {
 
-    //每一个word是一个long类型元素，对应64位二进制
+    // 每一个word是一个long类型元素，对应64位二进制
     private long[] words;
     //bitmap的位数大小
     private int size;
